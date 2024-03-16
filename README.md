@@ -43,4 +43,4 @@ In this project, we are gearing up for the launch of an exciting new product. Th
    - make sure you push it when done and commit the message with something like "final doc"
 
 
-Let's work together to make this product launch a resounding success!
+Let's work together to make this product launch a success!
