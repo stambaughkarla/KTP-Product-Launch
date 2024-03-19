@@ -18,25 +18,28 @@ In this project, we are gearing up for the launch of an exciting new product. Th
 
 ## Getting Started & Next Steps
 1. **Clone the Repository:**
-   - Clone this repository to your local machine, this is where we will begin the product launch.
+   - Clone this repository to your local machine, this is where we will begin the product launch, and where you will push your files to.
 
 3. **Choose a Partner and a Task to work on:**
-   - Work together with your team members to divide and Conquer your task.
+   - Work together with your team member to divide and Conquer your task whether it's the new product or landing page.
    - Use Git to collaborate effectively by creating branches, adding, pushing, committing changes, and resolving merge conflicts.
      
 4. **Create a Branch**
    - create a branch for you to do your work on
+   - you won't be in the main branch
    - call it the task you are doing with your first name.
-   -  ex: TESTING-karla, WEB-karla, FEATURE-karla
+   -  ex: WEB-karla, FEATURE-karla
+   -  you will be merging with your partner (merge WEB-partner) and working together on the file
      
 6. **Create a file**
    - One partner will create a file (touch) and push it the repo
-   - The other partner should be able to pull it and work on it as well
-   - create on that same doc, create a merge conflict and resolve it
-   - finish your Ticket, and push it to the Repo!
+   - The other partner should be able to pull it and work on it as well, pull often
+   - work on that same doc
+   - finish your Ticket/task, and push it to the Repo!
      
 7. **Complete task**
    - You can create anything you want, it can be simple because we are practicing git commands
+   - you may get merge conflicts, trouble seeing most recent files, etc, That's why we are practicing!
    - make sure you push it when done and commit the message with something like "final doc"
 
 
